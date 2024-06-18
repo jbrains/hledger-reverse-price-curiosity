@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# defect
+hledger --file currency_exchange_rates/20240307_usdcad.journal --file currency_exchange_rates/20240617_cadusd.journal --file main.journal --value=then,CAD register "Assets" --debug=2

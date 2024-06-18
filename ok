@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+hledger --file currency_exchange_rates/20240617_cadusd.journal --file main.journal --value=then,CAD register "Assets" --debug=2
