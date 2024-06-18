@@ -1,0 +1,34 @@
+commodity 1,000,000.00 CAD
+commodity 1,000,000.00 USD
+
+include ./currency_exchange_rates/20240307_usdcad.journal
+include ./currency_exchange_rates/20240617_all_rates.journal
+
+2024-03-05  Correctly valued at 2024-03-05
+    Assets:USD    1000000 USD
+    Revenue
+
+2024-03-06  Correctly valued at 2024-03-06
+    Assets:USD    1000000 USD
+    Revenue
+
+2024-03-07  Correctly valued at 2024-03-07
+    Assets:USD    1000000 USD
+    Revenue
+
+2024-03-08  Incorrectly valued as at 2024-03-07
+    Assets:USD    1000000 USD
+    Revenue
+
+2024-03-09  Incorrectly valued as at 2024-03-07
+    Assets:USD    1000000 USD
+    Revenue
+
+2024-04-28  Incorrectly valued as at 2024-03-07
+    Assets:USD    1000000 USD
+    Revenue
+
+2024-04-29  Incorrectly valued as at 2024-03-07
+    Assets:USD    1000000 USD
+    Revenue
+
