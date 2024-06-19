@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# defect
+hledger --file all.journal --value=then,CAD register "Assets" --debug=2
