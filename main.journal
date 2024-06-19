@@ -1,31 +1,31 @@
 commodity 1,000,000.00 CAD
 commodity 1,000,000.00 USD
 
-2024-03-05  Correctly valued at 2024-03-05
+2024-03-05  Matches direct exchange rate -3
     Assets:USD    1000000 USD
     Revenue
 
-2024-03-06  Correctly valued at 2024-03-06
+2024-03-06  Matches direct exchange rate -2
     Assets:USD    1000000 USD
     Revenue
 
-2024-03-07  Correctly valued at 2024-03-07
+2024-03-07  Matches direct exchange rate -1
     Assets:USD    1000000 USD
     Revenue
 
-2024-03-08  Incorrectly valued as at 2024-03-07
+2024-03-08  Matches reverse exchange rate 0
     Assets:USD    1000000 USD
     Revenue
 
-2024-03-09  Incorrectly valued as at 2024-03-07
+2024-03-09  Matches reverse exchange rate 1
     Assets:USD    1000000 USD
     Revenue
 
-2024-04-28  Incorrectly valued as at 2024-03-07
+2024-04-28  Matches reverse exchange rate 2
     Assets:USD    1000000 USD
     Revenue
 
-2024-04-29  Incorrectly valued as at 2024-03-07
+2024-04-29  Matches reverse exchange rate 3
     Assets:USD    1000000 USD
     Revenue
 
