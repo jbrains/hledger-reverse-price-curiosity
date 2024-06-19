@@ -1,14 +1,14 @@
 commodity 1,000,000.00 CAD
 commodity 1,000,000.00 USD
 
-P 2024-01-01  CAD  0.5 USD
-P 2024-01-02  USD  1.2 CAD
+P 2024-01-01  USD  2.0 CAD
+P 2024-01-02  CAD  0.8 USD
 
 2024-01-01  Worth 200 CAD
     Assets:USD    100 USD
     Revenue
 
-2024-01-02  Worth 120 CAD
+2024-01-02  Worth 125 CAD
     Assets:USD    100 USD
     Revenue
 
